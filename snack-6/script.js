@@ -28,3 +28,5 @@ zucchine.forEach((z) => {
     shortElements.push((z))
   }
 })
+
+console.log(longElements, shortElements)
